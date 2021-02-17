@@ -22,7 +22,7 @@ navigate        https://www.cloudflare.com
 You can use [wrangler](https://github.com/cloudflare/wrangler) to generate a new Cloudflare Workers project based on this template by running the following command from your terminal:
 
 ```
-wrangler generate myApp https://github.com/xtuc/worker-template-rewrite-proxy
+wrangler generate myapp https://github.com/xtuc/worker-template-rewrite-proxy
 ```
 
 Before publishing your code you need to edit `wrangler.toml` file and add your Cloudflare `account_id` - more information about publishing your code can be found [in the documentation](https://workers.cloudflare.com/docs/quickstart/configuring-and-publishing/).

@@ -6,7 +6,7 @@
 curl -H 'x-host: www.cloudflare.com' https://rewrite-proxy.sven.workers.dev/
 ```
 
-![demo showing that the website has been rewritten](.github/demo.jpg "demo")
+![demo showing that the website has been rewritten](demo/demo.jpg "demo")
 
 ## Usage in WPT
 
